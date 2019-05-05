@@ -16,7 +16,7 @@ Termux password protected script
    that .in futere i will make this script more secure/
    
 
-   Termux-Login
+   Termux-login
 
 [+] warning :- if anybody want to modify this script and want to 
     upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk
@@ -25,7 +25,7 @@ Termux password protected script
   
     git clone https://github.com/A4k4sh/termux-login.git
 
-    cd Termux-Login
+    cd Termux-login
 
     mv README.md log.py /$HOME
 
