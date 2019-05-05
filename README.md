@@ -23,7 +23,7 @@ Termux password protected script
 
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/A4k4sh/termux-login.git
 
     cd Termux-Login
 
