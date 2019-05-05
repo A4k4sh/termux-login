@@ -10,7 +10,7 @@ def menu():
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  786 => ')")
+           print(" \033[1;92m  143 => ')")
            print("\033[1;93m")
            print("  <───────[ Akash ]───────>")
            print("")
@@ -19,7 +19,7 @@ def menu():
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="mujeeb" and e=="12345":
+                if x=="Akash" and e=="12345":
                    print('wait...')
                    time.sleep(1)
                    os.system('clear')
