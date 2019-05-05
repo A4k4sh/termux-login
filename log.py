@@ -10,7 +10,7 @@ def menu():
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  143 => ')")
+           print(" \033[1;92m  143 => Anonymous ')")
            print("\033[1;93m")
            print("  <───────[ Akash ]───────>")
            print("")
