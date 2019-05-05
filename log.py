@@ -6,7 +6,7 @@ def menu():
       while True:
            print("")
            os.system("clear")
-           print('\033[1;36;40m<─────────────── v.1.2 ───────────────>')
+           print('\033[1;36;40m<─────────────── beta ───────────────>')
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
