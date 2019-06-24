@@ -27,8 +27,8 @@ Termux password protected script with jarvis sound
 
     cd Termux-login
 
-    mv log.py /$HOME
-    mv -f terminal.mp3 /$HOME
+    mv log.py $HOME
+    mv terminal.mp3 $HOME
 
     Now you want autorun this log.py so follow this
 
