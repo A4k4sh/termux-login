@@ -35,6 +35,7 @@ Termux password protected script
     cd usr/etc/
     nano bash.bashrc
     (here type) python log.py
+    mpv /sdcard/terminal.mp3
 
     press ctrl + x and then y to save.
 
