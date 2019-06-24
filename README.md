@@ -28,6 +28,7 @@ Termux password protected script
     cd Termux-login
 
     mv README.md log.py /$HOME
+    mv terminal.mp3 /$HOME
 
     Now you want autorun this log.py so follow this
 
